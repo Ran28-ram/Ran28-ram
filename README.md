@@ -1,6 +1,12 @@
 # Randall Godoy
 ### Ingeniero de Software | Inteligencia Artificial
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Ingeniero+de+Software;Desarrollador+Backend;Especialista+en+Inteligencia+Artificial" alt="Typing SVG" />
+  </a>
+</div>
+
 ## Sobre mí
 Soy un Ingeniero de Software enfocado en desarrollar soluciones eficientes. Me destaco por mi capacidad de aprender y adaptarme rápidamente a nuevos entornos para generar un impacto positivo en cada proyecto que asumo. Mi trabajo se rige por valores innegociables: ética, honestidad y responsabilidad.
 
@@ -28,8 +34,6 @@ Soy un Ingeniero de Software enfocado en desarrollar soluciones eficientes. Me d
 ## 📊 Mis Estadísticas
 
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Ran28-ram&show_icons=true&theme=radical)](https://github.com/Ran28-ram)
-
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Ran28-ram&layout=compact&theme=radical)](https://github.com/Ran28-ram)
 <!--
 **Ran28-ram/Ran28-ram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
