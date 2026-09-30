@@ -20,6 +20,12 @@ Soy un Ingeniero de Software enfocado en desarrollar soluciones eficientes. Me d
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Web Development](https://img.shields.io/badge/Web_Development-239120.svg?style=for-the-badge&logo=html5&logoColor=white)
 
+
+## 📊 Mis Estadísticas
+
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Ran28-ram&show_icons=true&theme=radical)](https://github.com/TU_USUARIO)
+
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Ran28-ram&layout=compact&theme=radical)](https://github.com/TU_USUARIO)
 <!--
 **Ran28-ram/Ran28-ram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
