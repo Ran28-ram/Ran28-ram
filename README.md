@@ -31,14 +31,3 @@ Soy un Ingeniero de Software enfocado en desarrollar soluciones eficientes. Me d
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randall-godoy-11a537397/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flaviohg95@gmail.com)
 
-## 📊 Mis Estadísticas
-
-## 🏆 Mis Logros
-
-[![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=Ran28-ram&theme=radical&margin-w=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 🐍 Mis contribuciones
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ran28-ram/Ran28-ram/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
