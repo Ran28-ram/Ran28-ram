@@ -1,6 +1,18 @@
 ## ----------RANDALL GODOY----------
 
-##   ****** INGENIERIA DE SOFTWARE*********
+##   ****** INGENIERIA DE SOFTWARE ********
+
+## SOBRE MI
+Ingeniero de Software con IA enfocado en desarrollar soluciones eficientes. 
+Cuento con habilidades en programación, páginas web, Java, MySQL, 
+lógica de programación, desarrollo backend,machine learning y 
+arquitectura en software con valores como ética, honestidad y responsabilidad. 
+
+## MIS INTERESES 
+Es el diseño web e integración de IA para optimizar procesos, 
+tengo la capacidad de aprender y adaptarme a nuevos entornos 
+para generar un impacto positivo en cada proyecto. 
+
 
 
 <!--
