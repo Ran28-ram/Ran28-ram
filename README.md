@@ -1,19 +1,18 @@
-## ----------RANDALL GODOY----------
+# Randall Godoy
+### Ingeniero de Software | Inteligencia Artificial
 
-##   ****** INGENIERIA DE SOFTWARE ********
+## Sobre mí
+Soy un Ingeniero de Software enfocado en desarrollar soluciones eficientes. Me destaco por mi capacidad de aprender y adaptarme rápidamente a nuevos entornos para generar un impacto positivo en cada proyecto que asumo. Mi trabajo se rige por valores innegociables: ética, honestidad y responsabilidad.
 
-## SOBRE MI
-Ingeniero de Software con IA enfocado en desarrollar soluciones eficientes. 
-Cuento con habilidades en programación, páginas web, Java, MySQL, 
-lógica de programación, desarrollo backend,machine learning y 
-arquitectura en software con valores como ética, honestidad y responsabilidad. 
+## 🧠 Intereses y Enfoque
+* **Desarrollo Backend:** Construcción de arquitecturas de software robustas.
+* **Inteligencia Artificial:** Integración de IA y Machine Learning para optimizar procesos.
+* **Desarrollo Web:** Creación de páginas y aplicaciones funcionales.
 
-## MIS INTERESES 
-Es el diseño web e integración de IA para optimizar procesos, 
-tengo la capacidad de aprender y adaptarme a nuevos entornos 
-para generar un impacto positivo en cada proyecto. 
-
-
+## 🛠️ Tecnologías y Herramientas
+* **Lenguajes:** Java
+* **Bases de Datos:** MySQL
+* **Conceptos:** Lógica de programación, Arquitectura de software
 
 <!--
 **Ran28-ram/Ran28-ram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
