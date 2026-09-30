@@ -33,8 +33,9 @@ Soy un Ingeniero de Software enfocado en desarrollar soluciones eficientes. Me d
 
 ## 📊 Mis Estadísticas
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Ran28-ram&show_icons=true&theme=radical)](https://github.com/Ran28-ram)
-<!--
+## 🏆 Mis Logros
+
+[![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=Ran28-ram&theme=radical&margin-w=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)<!--
 **Ran28-ram/Ran28-ram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
