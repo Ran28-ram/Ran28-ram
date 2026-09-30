@@ -10,9 +10,15 @@ Soy un Ingeniero de Software enfocado en desarrollar soluciones eficientes. Me d
 * **Desarrollo Web:** Creación de páginas y aplicaciones funcionales.
 
 ## 🛠️ Tecnologías y Herramientas
-* **Lenguajes:** Java
-* **Bases de Datos:** MySQL
-* **Conceptos:** Lógica de programación, Arquitectura de software
+
+**Lenguajes y Bases de Datos**  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Áreas de Enfoque**  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Web Development](https://img.shields.io/badge/Web_Development-239120.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 <!--
 **Ran28-ram/Ran28-ram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
